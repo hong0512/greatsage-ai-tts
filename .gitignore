@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+models/
+outputs/
+samples/private/
+*.wav
+*.mp3
+*.ogg
+*.zip
