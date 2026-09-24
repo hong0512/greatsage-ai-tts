@@ -1,0 +1,16 @@
+profile:
+  id: greatsage_system_voice
+  language: ko
+  description: calm, precise, restrained female system voice
+
+audio:
+  sample_rate: 24000
+  format: wav
+
+engine:
+  provider: cosyvoice
+  model: TBD
+
+api:
+  path: /v1/audio/speech
+  default_format: wav
